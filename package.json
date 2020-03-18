@@ -19,7 +19,8 @@
   "homepage": "https://github.com/junghong91/movieql#readme",
   "dependencies": {
     "babel-node": "0.0.1-security",
-    "graphql-yoga": "^1.18.3"
+    "graphql-yoga": "^1.18.3",
+    "node-fetch": "^2.6.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
